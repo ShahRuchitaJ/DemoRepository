@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="281d700f-555a-46d5-94c0-c4a80092249b" 
+        solutionId="281d700f-555a-46d5-94c0-c4a80092249b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="PHApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="68c62055-846d-4f71-9bb3-7909b2908b6f" />
+  </features>
+</package>
